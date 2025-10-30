@@ -1,2 +1,11 @@
-# appdev
-My first repository
+# 🌐 App Development Repository
+# MY FAVORITE MOVIE
+# SCI-FI/ACTION/ROMANCE/COMEDY
+
+**FROM NETFLIX**
+1. THE KILLER
+2. BELIEVER
+3. THIRD WORLD ROMANCE
+4. STRONG GIRL NAM-SOON
+
+
