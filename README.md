@@ -32,12 +32,5 @@ This repository is part of my *GitHub Pull Request Activity* for learning versio
 | [Link](https://github.com) | `[Link](https://github.com)` | [Link](https://github.com) |
 | `Inline Code` | `` `Inline Code` `` | `Inline Code` |
 
----
 
-### 🧱 Fenced Code Block
-```python
-# Simple Python Example
-def greet(name):
-    print(f"Hello, {name}! Welcome to GitHub Learning.")
-    
-greet("Student")
+
